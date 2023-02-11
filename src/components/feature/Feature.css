@@ -1,0 +1,9 @@
+.gpt3__features-container__feature {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+
+    margin: 1rem;
+}
