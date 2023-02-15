@@ -1,6 +1,6 @@
 import React from 'react';
 import Feature from '../../components/feature/Feature';
-import  './whatETC.css';
+import  './WhatETC.css';
 
 const whatETC = () => (
 
